@@ -9,7 +9,7 @@ import java.util.List;
 import static com.example.hibernatejpaexample.util.PersistEmployees.entityManagerFactory;
 import static com.example.hibernatejpaexample.util.PersistEmployees.persistEmployees;
 
-public class InnerJoinWithoutFetch {
+public class InnerJoin {
 
     public static void main(String[] args) {
         try {
